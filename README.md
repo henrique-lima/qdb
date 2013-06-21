@@ -14,3 +14,10 @@ Each player has two kinds of projectiles:
   when the player hits the opposing team's powerups, represented by bottles inside the barrack.
 
 The final objective is to hit and destroy the bigger bottle in the opposing barrack.
+
+=========================
+INSTALLATION INSTRUCTIONS
+
+- download the repository as a zip file;
+- extract it to a folder in your machine;
+- execute "qdb.exe".
